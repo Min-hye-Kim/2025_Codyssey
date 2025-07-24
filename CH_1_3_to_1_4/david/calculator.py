@@ -18,7 +18,7 @@ if __name__ == "__main__":
     a = int(input("1번째 숫자를 입력하세요: "))
     b = int(input("2번째 숫자를 입력하세요: "))
     cal = input("연산자를 입력하세요: ")
- 
+
     if cal == "+":
         result = add(a,b)
         print("Result: ", result)
