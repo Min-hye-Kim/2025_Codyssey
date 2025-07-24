@@ -1,0 +1,134 @@
+[33mcommit de85495c656282187c892a24777ac6330f6a19c5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Thu Jul 24 21:37:53 2025 +0900
+
+    Edit port
+
+[33mcommit d4fa5632e8cb3e8d725f7ca068a941e68aa28e97[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Thu Jul 24 06:47:37 2025 +0900
+
+    md파일 추가
+
+[33mcommit aa9afa66703d0ef3be007d18af2791bd1e8a6e43[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Thu Jul 24 03:15:12 2025 +0900
+
+    first commit
+
+[33mcommit 2a2f9559aff57fd8ac084479e51f7a0e6fdcb9aa[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Thu Jul 24 03:11:20 2025 +0900
+
+    1.5 완료
+
+[33mcommit 918ada4a298ae9ec2b06fcdd04d57ccd20caf931[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Wed Jul 23 18:38:22 2025 +0900
+
+    1.4 ~ 1.5 및 팀프로젝트 repo 추가
+
+[33mcommit dbba67b4aae8a1b44b2b35947b9bece56dcfdd2f[m
+Author: [Min-hye-Kim] <kimilu@ewha.ac.kr>
+Date:   Tue Jul 22 03:31:35 2025 +0900
+
+    1-3~1-4 과제 완료
+
+[33mcommit c2f3fd5646cacbff6c29d0fa49adcb58a48da71a[m
+Author: [Min-hye-Kim] <kimilu@ewhain.net>
+Date:   Mon Jul 21 23:07:31 2025 +0900
+
+    폴더명 변경
+
+[33mcommit 3f54420f7a93fa4278101947065673a83e5da07a[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 15:42:26 2025 +0900
+
+    Add files via upload
+
+[33mcommit 641f16e6977d7c0831c4f7e44fb90dc77a1f01db[m
+Merge: d608125 bbf2ccd
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 15:41:28 2025 +0900
+
+    Merge pull request #1 from Min-hye-Kim/moidified_branch
+    
+    Create app.py
+
+[33mcommit bbf2ccda6a7f7ef26ca5511c612ed1df37452c7e[m[33m ([m[1;31morigin/moidified_branch[m[33m)[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 15:40:59 2025 +0900
+
+    Create app.py
+
+[33mcommit d608125261c92a4695d2b793a03d985943cfb080[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:45:42 2025 +0900
+
+    Delete 1-1/text
+
+[33mcommit 015541817a81373c9be23258516008d9ad213cc2[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:45:24 2025 +0900
+
+    1-2. Python & Flask basic
+
+[33mcommit b18ca802e937bc0cbaea9118a4561cad68686d97[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:44:24 2025 +0900
+
+    Create 1-2.md
+
+[33mcommit 9c64d1a7d931b46f59d1b16ac677873c20093f6d[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:39:29 2025 +0900
+
+    Delete
+
+[33mcommit b4f5a022f536c833a8eae96715827fe5abcc55d3[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:36:02 2025 +0900
+
+    Delete
+
+[33mcommit 0d05c52251ba52826ab89f7e3e79dd86c9493b18[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:35:39 2025 +0900
+
+    Create text
+
+[33mcommit 74bc3df3094d50ae97be77ce915567f365570ad0[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:34:36 2025 +0900
+
+    Rename
+
+[33mcommit 37e67bc11f954131d7e259365f880f884ec03b16[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:34:22 2025 +0900
+
+    Rename
+
+[33mcommit d3ef5d56749a603b1661b53a59196cc2971792ed[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:34:06 2025 +0900
+
+    Rename
+
+[33mcommit 3508326d4c016f3b919f5dfff1a0c28861178bce[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 12:33:07 2025 +0900
+
+    Create text
+
+[33mcommit 48ecbcdbafbb9d08d961accd73fcc9f413b34a2e[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Sun Jul 20 04:16:02 2025 +0900
+
+    1-1. Python Installation
+
+[33mcommit 02bfcdd5d00bb40c7e91e833bfd7ece371cdf865[m
+Author: Min-hye-Kim <kimilu@ewha.ac.kr>
+Date:   Mon Jul 14 09:42:34 2025 +0900
+
+    Initial commit
